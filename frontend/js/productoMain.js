@@ -40,7 +40,7 @@ async function cargarProductos() {
       tabla_prod.innerHTML += `
         <tr>
           <td>${producto.id}</td>
-          <td>${producto.nombre_prod}</td>
+          <td>${producto.nombre}</td>
           <td>${producto.stock}</td>
           <td>${producto.precio}</td>
         </tr>

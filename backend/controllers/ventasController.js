@@ -1,6 +1,6 @@
 import {
     obtenerVentas as obtenerVentasModel,
-    registarVenta as registarVentaModel
+    registrarVenta as registarVentaModel
 }
     from '../models/ventaModel.js';
 
